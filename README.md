@@ -1,8 +1,8 @@
 # GhostLayer Android Client
 
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![Build Status](https://github.com/poepulse/ghostlayer-client-android/actions/workflows/build.yml/badge.svg)](https://github.com/poepulse/ghostlayer-client-android/actions)
-[![Latest Release](https://img.shields.io/github/v/release/poepulse/ghostlayer-client-android)](https://github.com/poepulse/ghostlayer-client-android/releases)
+[![Build Status](https://github.com/Drumikq/ghostlayer-client-android/actions/workflows/build.yml/badge.svg)](https://github.com/Drumikq/ghostlayer-client-android/actions)
+[![Latest Release](https://img.shields.io/github/v/release/Drumikq/ghostlayer-client-android)](https://github.com/Drumikq/ghostlayer-client-android/releases)
 
 **Privacy-focused VPN client for Android with native VpnService integration and WireGuard tunnel.**
 
@@ -29,7 +29,7 @@ Coming soon.
 
 ### Option 2: Download APK
 
-1. Go to [Releases](https://github.com/poepulse/ghostlayer-client-android/releases)
+1. Go to [Releases](https://github.com/Drumikq/ghostlayer-client-android/releases)
 2. Download latest `.apk` file
 3. Enable "Install from Unknown Sources" in Android settings
 4. Install APK and launch GhostLayer
@@ -45,7 +45,7 @@ Coming soon.
 **Build Steps:**
 ```bash
 # Clone repository
-git clone https://github.com/poepulse/ghostlayer-client-android.git
+git clone https://github.com/Drumikq/ghostlayer-client-android.git
 cd ghostlayer-client-android
 
 # Build debug APK
@@ -103,8 +103,8 @@ See [LICENSE](LICENSE.md) for full license text.
 
 ## 🙋 Support
 
-- **Documentation**: https://github.com/poepulse/ghostlayer-docs
-- **Issues**: https://github.com/poepulse/ghostlayer-client-android/issues
+- **Documentation**: https://github.com/Drumikq/ghostlayer-docs
+- **Issues**: https://github.com/Drumikq/ghostlayer-client-android/issues
 - **Website**: https://poepulse.com
 
 ---
